@@ -1,0 +1,89 @@
+body {
+  background-color: rgb(23, 236, 165);
+}
+/*.head{
+    width: bold;
+    display: flex; for align item on aline
+    text-align: right;
+    word-spacing: 34px ;  
+    font-style: italic; 
+}**/
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.right {
+  width: 30%;
+}
+.right a {
+  margin-left: 2vw;
+  text-decoration: none;
+  color: blue;
+  font-style: italic;
+}
+.intro {
+  margin-left: 10px;
+}
+.intro h2{
+    
+    font-size: 30px;
+}
+.intro h3{
+    
+    font-size: 20px;
+    color: grey;
+}
+.poto {
+  display: flex;
+  width: 100%;
+}
+.images{
+    width: 50%;
+}
+.title {
+  display: flex;
+  justify-content: space-between;
+  color: maroon;
+}
+.new {
+  width: 40%;
+}
+.whole {
+  display: flex;
+  justify-content: space-between;
+}
+.form {
+  width: 40%;
+}
+.tables {
+  display: flex;
+  padding: 2px;
+  border: 1px solid black;
+}
+.tables table {
+  border: 1px solid black;
+  margin-left: 2px;
+}
+td{
+    padding-left: 1vw;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.form input{
+    width: 90%;
+    background-color: white;
+    padding: 10px 0px 10px 20px;
+    border: 0;
+    border-radius: 15px;
+    color: grey;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+button{
+    background-color: blue;
+    border: 0;
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+}

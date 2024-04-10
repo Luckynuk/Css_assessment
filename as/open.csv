@@ -1,0 +1,11 @@
+jquery('bit').data('format'); //=> "csv"
+get he contents of all data attribute.
+       JQuery('btn').data(); => {format: "csv"}
+
+
+      #image i want to up load 
+      "E:\lalibela\site_0018_0014-360-360-20151104173457.jpg"
+"E:\lalibela\site_0018_0016-360-360-20151104173458.jpg"
+"E:\lalibela\site_0018_0017-360-360-20151104173458 (1).jpg"
+"E:\lalibela\site_0018_0017-360-360-20151104173458.jpg"
+"E:\lalibela\site_0018_0018-360-360-20151104173459.jpg" 
